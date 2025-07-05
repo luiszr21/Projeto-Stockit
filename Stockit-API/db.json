@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "f86b",
+      "nome": "Admininastror",
+      "email": "admin@gmail.com",
+      "senha": "admin123",
+      "userId": "1"
+    }
+  ],
+  "produtos": [
+
+  ],
+  "historico": [
+
+  ]
+}
