@@ -97,7 +97,7 @@ Projeto desenvolvido por:
 - Luis Matheus dos Santos
 - Pablo Knapp
 - Vicente Rochefort
-- Otavio VIeira
+- Otavio Vieira
 ---
 
 ## 📅 Data de criação
