@@ -102,6 +102,6 @@ Projeto desenvolvido por:
 
 ## 📅 Data de criação
 
-Julho, 2025
+Maio, 2025
 
 ---
